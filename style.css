@@ -1,0 +1,28 @@
+body {
+  color: #FFFF00;               /* Yellow */
+  background-color: #000000;    /* Black */
+  text-align: center;
+}
+.button {
+  color: #FFF;
+  background-color:yellow;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 5px;
+  width: 200px;
+  margin: 20px auto;
+
+}
+.Shrimp{color: DarkCyan;
+
+}
+
+.Lobster{color: MediumSpringGreen;
+
+}
+
+.Crab{ color:Limegreen;
+
+}
